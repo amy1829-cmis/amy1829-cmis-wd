@@ -1,0 +1,10 @@
+Start Terminal by clicking on the black icon at the bottom left of your computer screen.
+Clone your repository by typing in this command (Note that the whole command should be on 1 line in terminal): git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+The password and username on this command should be changed to you github password and username. Hit enter
+After you have cloned your repository, change the directory by typing in "cd <directory name>". (Don't forget to change "<directory name>")
+Next, create and new file by typing in "gedit <file name> &". (Don't forget to change "<filename>"). Hit enter
+You now can type in your file. After you finish, click save and close
+Type "git add <filename>". (Don't forget to change "<filename>"). Hit enter
+Type "git commit -m <Commit message>" (Don't forget to change "<Commit message>")
+To save, type "git push" and hit enter
+Your file will now be sent to github.com
