@@ -16,4 +16,5 @@ sftp username@cmis-hsteacher
 ls - same as terminal
 cd - same as terminal
 put <filename> - upload a file
+rm <filename> - remove a file
 get <filename> - upload a file
