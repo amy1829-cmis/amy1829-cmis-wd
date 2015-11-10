@@ -1,13 +1,28 @@
 h1{
-	font:28px arial, sans-serif;
-	
+	font:40px arial, sans-serif;
+	background-color: yellow;
+	border-style: dotted;
+	color: #00FFFF;
 }
-h1{
-	color: #FF0066
+h2{
+	color: #0000FF;
+	font: 15px arial, sans-serif;
+	background-color: yellow;
+	border-style: dashed;
 }
 p{
-	color: rgb (0,0,225);
+	font-size: 30px;
+	font-style: italic;
+	color:#FF00FF;
+	background-color: yellow;
+	border-style: solid;
 }
 footer{
-	
+	background-color: #00ff00;
+	font-style: oblique;
+	font-size: 20px;
+	color: #C0C0C0;
+	border-style: inset;
 }
+body{
+	background-color: #FF00FF;
