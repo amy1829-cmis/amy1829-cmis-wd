@@ -1,15 +1,17 @@
 h1{
 	font:40px arial, sans-serif;
 	background-color: yellow;
-	border-style: dotted;
+	border-bottom: dotted;
 	color: #00FFFF;
 }
+
 h2{
 	color: #0000FF;
 	font: 15px arial, sans-serif;
 	background-color: yellow;
-	border-style: dashed;
+	border-top: dashed;
 }
+
 p{
 	font-size: 30px;
 	font-style: italic;
@@ -26,3 +28,4 @@ footer{
 }
 body{
 	background-color: #FF00FF;
+}
