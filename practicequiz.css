@@ -1,0 +1,36 @@
+main{
+	border-style: dashed;
+	border-color: red;
+}
+header{
+	background-color: yellow;
+}
+h1{
+	color: yellow;
+	background-color: green;
+	font-family: "fantasy", italic;
+}
+h2{
+	color: purple;
+	background-color: yellow;
+	font-size: 15px;
+}
+h3{
+	color: yellow;
+	background-color: blue;
+}
+h4{
+	color: blue;
+	background-color: orange;
+}
+h5{
+	color: blue;
+}
+footer{
+	color: purple;
+	border: outset;
+	border-bottom-color: blue;
+	border-left-color: yellow;
+	background-color: orange;
+	font-size: 10px;
+	}
