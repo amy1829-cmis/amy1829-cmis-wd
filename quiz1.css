@@ -1,0 +1,47 @@
+body{
+	border-left-style: ridge;
+}
+p{
+	color: blue;
+}
+h1{
+	background-color: green;
+	color: yellow;
+	border-bottom-style: dashed;
+	font-style: italic;
+	font-family: "fantasy";
+}
+p{
+	background-color: red;
+	border-color: yellow;
+	border-bottom-style: dashed;
+	border-bottom-width: 5px;
+	font-style: italic;
+	font-family: "fantasy";
+	font-size: 11px;
+}
+h2{
+	background-color: purple;
+	color: yellow;
+	border-right-width: 20px;
+	border-right-color: yellow
+	font-family: "arial";
+}
+h3{
+	background-color: yellow;
+	color: purple;
+	border-top-style: dashed;
+	border-top-color: purple;
+	border-top-width: 1px;
+	font-family:
+}
+footer{
+	border-left-style: solid;
+	border-left-color:red;
+	border-left-width: 5px;	
+	border-right-style: solid;
+	border-right-color:blue;
+	border-right-width: 5px;
+}
+h5{
+	color: blue;
