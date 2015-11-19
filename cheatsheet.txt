@@ -20,6 +20,8 @@ sftp username@cmis-hsteacher
 ls - same as terminal
 cd - same as terminal
 prepend a command with ! to execute it on local
+ls *: on yours
+! ls: on techers
 put <filename> - upload a file
 put *: send all the files in your repository
 rm <filename> - remove a file
