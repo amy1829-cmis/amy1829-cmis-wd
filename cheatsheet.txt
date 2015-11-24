@@ -16,7 +16,7 @@ git add <file name>
 git commit -m "Commit Comment"
 git push
 sftp Commands-
-sftp username@cmis-hsteacher 
+sftp amy1829@cmis-hsteacher 
 ls - same as terminal
 cd - same as terminal
 prepend a command with ! to execute it on local
@@ -26,3 +26,4 @@ put <filename> - upload a file
 put *: send all the files in your repository
 rm <filename> - remove a file
 get <filename> - upload a file
+http://cmis-hsteacher/~amy1829: check if sftp works (click on the link to the folder to see if sftp works).
