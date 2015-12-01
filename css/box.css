@@ -61,3 +61,9 @@ h3 + ul{
 	border: 10px;
 	margin:50px;
 }
+th{
+	background-color: yellow;
+	width: 55px;
+	border: 44px;
+	margin: 0px;
+	padding: 16px;
