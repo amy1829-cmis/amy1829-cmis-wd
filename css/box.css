@@ -8,4 +8,56 @@ header{
 table{
 	background-color: red;
 	width: 200px;
-	padding: 
+	padding: 29px;
+	border: 10px;
+	margin:10px;
+}
+nav{
+	background-color: yellow;
+	width: 150px;
+	padding: 50px;
+	border: 32px;
+	margin:5px;
+}
+body footer{
+	background-color: purple;
+	width: 89px;
+	padding: 20px;
+	border: 32px;
+	margin:10px;
+}
+tr td{
+	background-color: orange;
+	width: 19px;
+	padding: 6px;
+	border: 30px;
+	margin:8px;
+}
+h2 + article{
+	background-color: black;
+	width: 1000px;
+	padding: 30px;
+	border: 30px;
+	margin:50px;
+}
+ul > li{
+	background-color: pink;
+	width: 1000px;
+	padding: 10px;
+	border: 10px;
+	margin:50px;
+}
+ol > li{
+	background-color: purple;
+	width: 1000px;
+	padding: 1px;
+	border: 10px;
+	margin:50px;
+}
+h3 + ul{
+	background-color: pink;
+	width: 1000px;
+	padding: 1px;
+	border: 10px;
+	margin:50px;
+}
