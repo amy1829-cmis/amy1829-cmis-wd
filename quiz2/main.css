@@ -1,0 +1,37 @@
+h1{
+	width: 10px;
+	border-color: yellow;
+}
+header{
+	background-color: red;
+	width: 300px;
+	padding: 25px;
+	margin: 25px;
+}
+table{
+	background-color: grey;
+	width: 200px;
+	padding: 29px;
+	border: 10px;
+	margin:10px;
+}
+main{
+	background-color: grey
+}
+p{
+nav{
+	border-color: grey;
+	border: solid
+}
+footer{
+	background-color: blue;
+	color: white;
+	border: dashed;
+}
+tr td{
+	background-color: white;
+	width: 19px;
+	padding: 6px;
+	border: 30px;
+	margin:8px;
+}
