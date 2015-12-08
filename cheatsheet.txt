@@ -10,7 +10,7 @@ rmdir <file name>: Remove a file in repository
 mkdir <file name>: Create a new file in repository
 cd ..: Use when you want to go back to the file before
 Ctrl c: Use when you want the green/blue thing back
-Git Cpmmands-
+Git Commands-
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
 git add <file name>
 git commit -m "Commit Comment"
@@ -27,3 +27,7 @@ put *: send all the files in your repository
 rm <filename> - remove a file
 get <filename> - upload a file
 http://cmis-hsteacher/~amy1829: check if sftp works (click on the link to the folder to see if sftp works).
+CSS Command-
+*{: use when you want to style everything
+If the width is 200px, then the margin has to be 201px
+
