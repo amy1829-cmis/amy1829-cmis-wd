@@ -1,0 +1,30 @@
+*{
+	outline: groove;
+}
+header{
+	float: left;
+	clear: left;
+}
+img{
+	float: right;
+	clear: right;
+}
+article{ 
+	float: left;
+	clear: left;
+	
+}
+nav{
+	margin: 50px;
+	clear: both;
+	
+}
+ul{
+	float: left;
+	clear: left;
+	border: 300px;
+	width: 100px;
+}
+p{
+	width: 1000px;
+}
