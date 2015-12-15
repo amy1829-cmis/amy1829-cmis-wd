@@ -1,30 +1,59 @@
-*{
-	outline: groove;
-}
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 header{
 	float: left;
 	clear: left;
+	color: white;
 }
-img{
+img.left{
 	float: right;
 	clear: right;
+	margin-right: 501px;
+}
+img.right{
+	margin-right:502px;
+	float: left;
 }
 article{ 
 	float: left;
 	clear: left;
-	
+	margin-left: 300px;
+	font-family: 'Shadows Into Light', cursive;
+}
+h1{
+	font-size: 50px;
+	float:left;
+	clear: left;	
+	font-family: 'Lobster', cursive;	
 }
 nav{
-	margin: 50px;
-	clear: both;
-	
+	clear: left;
+	font-size: 1000px;
+	color: white;
+	float:left;
 }
 ul{
 	float: left;
 	clear: left;
 	border: 300px;
 	width: 100px;
+	color: white;
 }
 p{
 	width: 1000px;
+	font-size: 20px;
+}
+h3{	margin-left: 0px;
+	font-size: 30px;
+}
+h2{
+	margin-left: 0px;
+	font-size: 40px;
+}
+body{
+	background-color: #E9CBD9;
+	color:white;
+}
+ul{
+	font-size: 15px;
 }
